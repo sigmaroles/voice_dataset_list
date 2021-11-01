@@ -4,7 +4,7 @@ A comprehensive list of open source voice and music datasets. I released this fo
 ![](https://media.giphy.com/media/3o6ozifkiTecWsJOFO/giphy.gif)
 
 
-**see also** [Open Speech and Language Resources](openslr.org/resources.php)
+**see also** [Open Speech and Language Resources](http://www.openslr.org/resources.php)
 
 ## Audio datasets 
 There are two main types of audio datasets: speech datasets and audio event/music datasets. 
